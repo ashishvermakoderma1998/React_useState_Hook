@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <h>R</h>
+      <h>Re</h>
       <h1 style={{ color: "red" }}>
         {car.brand} {car.model} {car.year}
       </h1>
