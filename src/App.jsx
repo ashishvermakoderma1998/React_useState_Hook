@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <h>React useState H</h>
+      <h>React useState Ho</h>
       <h1 style={{ color: "red" }}>
         {car.brand} {car.model} {car.year}
       </h1>
